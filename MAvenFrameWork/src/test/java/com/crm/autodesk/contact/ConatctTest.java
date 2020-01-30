@@ -25,6 +25,16 @@ public class ConatctTest {
 	public void modifyContactTest() {
 		System.out.println("exeucte modifyContactTest");
 	}
+	
+	@Test
+	public void deleteContactTest() {
+		System.out.println("exeucte deleteContactTest");
+	}
+	
+	@Test
+	public void editContactTest() {
+		System.out.println("exeucte editContactTest");
+	}
 
 }
 
